@@ -19,19 +19,5 @@
     "title": "Multiplying numbers in R",
     "section": "",
     "text": "To multiply numbers in R use *\n\n2 * 3\n\n[1] 6"
-  },
-  {
-    "objectID": "slideprac.html#this-is-a-slide",
-    "href": "slideprac.html#this-is-a-slide",
-    "title": "Quarto presentations",
-    "section": "This is a slide",
-    "text": "This is a slide\n\nPoint 1\nPoint 2"
-  },
-  {
-    "objectID": "slideprac.html#another-slide",
-    "href": "slideprac.html#another-slide",
-    "title": "Quarto presentations",
-    "section": "Another slide",
-    "text": "Another slide\n\nMore points\nMore points"
   }
 ]
